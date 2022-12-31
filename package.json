@@ -10,9 +10,6 @@
     "blog",
     "theme"
   ],
-  "engines": {
-    "node": "16.x"
-  },
   "repository": {
     "type": "git",
     "url": "wowthemesnet/mediumish-vuepress-blog-theme"
